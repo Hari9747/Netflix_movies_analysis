@@ -1,0 +1,95 @@
+Project Overview:
+
+This project focuses on cleaning and preparing the Netflix Movies and TV Shows dataset using **Python** and **Pandas**. The goal is to transform raw, 
+inconsistent data into a clean and analysis-ready dataset by handling missing values, duplicates, incorrect data types, and creating new features.
+The cleaned dataset can be used for Exploratory Data Analysis (EDA), dashboard creation, and machine learning projects.
+
+Dataset Information:
+
+**Original Records:** 8,807
+**Cleaned Records:** 8,803
+**Original Features:** 12
+**Final Features:** 14
+
+
+Original Columns:
+
+- show_id
+- type
+- title
+- director
+- cast
+- country
+- date_added
+- release_year
+- rating
+- duration
+- listed_in
+- description
+
+
+New Features Created:
+
+- year_added
+- month_added
+
+
+
+Technologies Used:
+
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
+
+Data Cleaning Steps:
+
+Loaded the dataset into Pandas
+
+Explored dataset structure
+
+Checked data types
+
+Identified missing values
+
+Removed duplicate records
+
+Handled null values
+
+Converted date columns to datetime format
+
+Extracted Year Added and Month Added from `date_added`
+
+Verified data consistency
+
+Exported the cleaned dataset as CSV
+
+
+Skills Demonstrated:
+
+- Data Cleaning
+- Data Wrangling
+- Missing Value Handling
+- Duplicate Removal
+- Feature Engineering
+- Date-Time Manipulation
+- CSV File Operations
+- Exploratory Data Preparation
+
+
+Learning Outcomes:
+
+Through this project, I learned how to:
+
+- Clean real-world datasets using Pandas
+- Handle missing and duplicate values
+- Work with datetime data
+- Perform feature engineering
+- Prepare datasets for further analysis
+- Follow a structured data cleaning workflow
+
+
+
+
+
