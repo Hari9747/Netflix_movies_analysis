@@ -7,8 +7,8 @@ This repository contains the **cleaned Netflix dataset** used for my end-to-end 
 
 The original dataset was cleaned using **Python (Pandas) in Jupyter Notebook**. This cleaned dataset was then used for:
 
-- 📊 Data Analysis in MySQL
-- 📈 Interactive Dashboard in Power BI
+- Data Analysis in MySQL
+- Interactive Dashboard in Power BI
 
 The cleaning process improved data quality and prepared the dataset for SQL analysis and dashboard creation.
 
@@ -60,8 +60,8 @@ Used In :
 
 This cleaned dataset is used in the following projects:
 
-- ✅ MySQL Data Analysis Project (Separate Repository)
-- ✅ Power BI Dashboard Project (Separate Repository) 
+- MySQL Data Analysis Project (Separate Repository)
+- Power BI Dashboard Project (Separate Repository) 
  
  
  
